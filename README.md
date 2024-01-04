@@ -8,6 +8,8 @@ Welcome to my GitHub profile!
 - **Tools:** Git, Bootstrap, SVN
 - **Databases:** MySQL, MongoDB, PostgreSQL, Redis, SQLite, Neo4j
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamNicklez&layout=donut-vertical)](https://github.com/SamNicklez/github-readme-stats)
+
 ## Some of my Projects 🚀
 - [Resume Website V2](https://github.com/SamNicklez/resume-website-v2): A personal resume website project built using Vue.js. It features an interactive and responsive design, showcasing sections for work experience, skills, and projects, with a toggle for dark and light modes.
 - [DealDocks eBay Clone](https://github.com/SamNicklez/dealdocks-ebay-clone): A Ruby on Rails web application that replicates the functionality of an online marketplace like eBay. It allows users to list, view, and purchase items, featuring user authentication, item listing, search functionality, and transaction processing.
